@@ -1,0 +1,7 @@
+{
+  "name": "ghi",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
